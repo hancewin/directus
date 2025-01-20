@@ -70,4 +70,4 @@ distributed or made available by Directus, You reserve all right, title, and int
 
 9. Your Contribution and any personal information contained therein and otherwise provided to Directus may be maintained
    indefinitely and may be redistributed or made available consistent with this Agreement. The personal information you
-   provide will be maintained in accordance with Directus’ privacy policy.
+   provide will be maintained in accordance with Directus’ privacy policy. 
