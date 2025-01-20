@@ -66,7 +66,7 @@ distributed or made available by Directus, You reserve all right, title, and int
    [license name]" (substituting the bracketed text with the applicable information).
 
 8. You agree to notify Directus of any facts or circumstances of which you become aware that would make the
-   representations contained herein inaccurate in any respect.
+   representations contained herein inaccurate in any respect. 
 
 9. Your Contribution and any personal information contained therein and otherwise provided to Directus may be maintained
    indefinitely and may be redistributed or made available consistent with this Agreement. The personal information you
